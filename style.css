@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(47, 47, 194);
+    font-family: verdana;
+    margin: 10px;
+}
+
+h1 {
+    color: #fff;
+    font-family: impact;
+    letter-spacing: 5px;
+    text-align: center;
+    padding: 30px;
+}
+
+section {
+    background-color: #fff;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 20px;
+    padding-left: 80px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 7px black;
+}
+
+footer {
+    margin: 50px;
+    text-align: center;
+    text-decoration:underline overline;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+#res {
+    letter-spacing: 2px;
+    padding: 10px;
+}
